@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+    <div id="snowflakes"></div>
+    <div>
+        <h1>Hello!</h1>
+        <p>So you somehow stumbled upon my bio website, well here's some stuff about me...<br>I'm a 15 year old girl who likes coding and some other stuff like gaming and ummm yeah.<br> I like coding Python, HTML, CSS, and JS and a little bit of C...<br> I like coding because you can do a lot of things with it like make games and some other stuff that are cool.<br> Anyways you can leave now, Goodbye!</p>
+    </div>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="index.js"></script>
+</body>
+</html>
